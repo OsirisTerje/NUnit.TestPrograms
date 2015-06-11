@@ -52,7 +52,7 @@ namespace NUnit.test
 
         [Test]
         [Explicit]
-        [ExpectedException(typeof(Exception))]
+       // [ExpectedException(typeof(Exception))]
         public void TestMethodNOutput()
         {
             Console.WriteLine("Testing Console.Write");
