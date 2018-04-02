@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.30723.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.25402.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SomeClasses2", "ClassLibrary3\SomeClasses2.csproj", "{45D73A24-51A5-456A-9F25-9A526A6AFDE3}"
 EndProject
@@ -9,9 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiTest", "UnitTestProjec
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{343B795E-1700-4F45-8566-606B024E35C4}"
 	ProjectSection(SolutionItems) = preProject
-		Runsettings1.runsettings = Runsettings1.runsettings
-		TestSettings1.testsettings = TestSettings1.testsettings
-		TestUnitTestingAndTraits1.vsmdi = TestUnitTestingAndTraits1.vsmdi
+		CompleteRunsettings1.runsettings = CompleteRunsettings1.runsettings
+		target.runsettings = target.runsettings
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{DCB43C45-DCE2-4BA7-84A5-22D7A4EDC278}"
