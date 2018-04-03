@@ -6,302 +6,332 @@ namespace MultiTesting31
 public class NUnitTest0
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -311,302 +341,332 @@ public class NUnitTest0
 public class NUnitTest1
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -616,302 +676,332 @@ public class NUnitTest1
 public class NUnitTest2
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -921,302 +1011,332 @@ public class NUnitTest2
 public class NUnitTest3
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -1226,302 +1346,332 @@ public class NUnitTest3
 public class NUnitTest4
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -1531,302 +1681,332 @@ public class NUnitTest4
 public class NUnitTest5
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -1836,302 +2016,332 @@ public class NUnitTest5
 public class NUnitTest6
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -2141,302 +2351,332 @@ public class NUnitTest6
 public class NUnitTest7
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -2446,302 +2686,332 @@ public class NUnitTest7
 public class NUnitTest8
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -2751,302 +3021,332 @@ public class NUnitTest8
 public class NUnitTest9
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -3056,302 +3356,332 @@ public class NUnitTest9
 public class NUnitTest10
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -3361,302 +3691,332 @@ public class NUnitTest10
 public class NUnitTest11
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -3666,302 +4026,332 @@ public class NUnitTest11
 public class NUnitTest12
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -3971,302 +4361,332 @@ public class NUnitTest12
 public class NUnitTest13
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -4276,302 +4696,332 @@ public class NUnitTest13
 public class NUnitTest14
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -4581,302 +5031,332 @@ public class NUnitTest14
 public class NUnitTest15
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -4886,302 +5366,332 @@ public class NUnitTest15
 public class NUnitTest16
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -5191,302 +5701,332 @@ public class NUnitTest16
 public class NUnitTest17
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -5496,302 +6036,332 @@ public class NUnitTest17
 public class NUnitTest18
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -5801,302 +6371,332 @@ public class NUnitTest18
 public class NUnitTest19
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -6106,302 +6706,332 @@ public class NUnitTest19
 public class NUnitTest20
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -6411,302 +7041,332 @@ public class NUnitTest20
 public class NUnitTest21
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -6716,302 +7376,332 @@ public class NUnitTest21
 public class NUnitTest22
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -7021,302 +7711,332 @@ public class NUnitTest22
 public class NUnitTest23
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -7326,302 +8046,332 @@ public class NUnitTest23
 public class NUnitTest24
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -7631,302 +8381,332 @@ public class NUnitTest24
 public class NUnitTest25
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -7936,302 +8716,332 @@ public class NUnitTest25
 public class NUnitTest26
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -8241,302 +9051,332 @@ public class NUnitTest26
 public class NUnitTest27
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -8546,302 +9386,332 @@ public class NUnitTest27
 public class NUnitTest28
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -8851,302 +9721,332 @@ public class NUnitTest28
 public class NUnitTest29
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -9156,302 +10056,332 @@ public class NUnitTest29
 public class NUnitTest30
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -9461,302 +10391,332 @@ public class NUnitTest30
 public class NUnitTest31
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -9766,302 +10726,332 @@ public class NUnitTest31
 public class NUnitTest32
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -10071,302 +11061,332 @@ public class NUnitTest32
 public class NUnitTest33
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -10376,302 +11396,332 @@ public class NUnitTest33
 public class NUnitTest34
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -10681,302 +11731,332 @@ public class NUnitTest34
 public class NUnitTest35
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -10986,302 +12066,332 @@ public class NUnitTest35
 public class NUnitTest36
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -11291,302 +12401,332 @@ public class NUnitTest36
 public class NUnitTest37
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -11596,302 +12736,332 @@ public class NUnitTest37
 public class NUnitTest38
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -11901,302 +13071,332 @@ public class NUnitTest38
 public class NUnitTest39
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -12206,302 +13406,332 @@ public class NUnitTest39
 public class NUnitTest40
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -12511,302 +13741,332 @@ public class NUnitTest40
 public class NUnitTest41
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -12816,302 +14076,332 @@ public class NUnitTest41
 public class NUnitTest42
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -13121,302 +14411,332 @@ public class NUnitTest42
 public class NUnitTest43
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -13426,302 +14746,332 @@ public class NUnitTest43
 public class NUnitTest44
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -13731,302 +15081,332 @@ public class NUnitTest44
 public class NUnitTest45
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -14036,302 +15416,332 @@ public class NUnitTest45
 public class NUnitTest46
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -14341,302 +15751,332 @@ public class NUnitTest46
 public class NUnitTest47
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -14646,302 +16086,332 @@ public class NUnitTest47
 public class NUnitTest48
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -14951,302 +16421,332 @@ public class NUnitTest48
 public class NUnitTest49
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -15256,302 +16756,332 @@ public class NUnitTest49
 public class NUnitTest50
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -15561,302 +17091,332 @@ public class NUnitTest50
 public class NUnitTest51
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -15866,302 +17426,332 @@ public class NUnitTest51
 public class NUnitTest52
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -16171,302 +17761,332 @@ public class NUnitTest52
 public class NUnitTest53
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -16476,302 +18096,332 @@ public class NUnitTest53
 public class NUnitTest54
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -16781,302 +18431,332 @@ public class NUnitTest54
 public class NUnitTest55
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -17086,302 +18766,332 @@ public class NUnitTest55
 public class NUnitTest56
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -17391,302 +19101,332 @@ public class NUnitTest56
 public class NUnitTest57
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -17696,302 +19436,332 @@ public class NUnitTest57
 public class NUnitTest58
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -18001,302 +19771,332 @@ public class NUnitTest58
 public class NUnitTest59
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -18306,302 +20106,332 @@ public class NUnitTest59
 public class NUnitTest60
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -18611,302 +20441,332 @@ public class NUnitTest60
 public class NUnitTest61
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -18916,302 +20776,332 @@ public class NUnitTest61
 public class NUnitTest62
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -19221,302 +21111,332 @@ public class NUnitTest62
 public class NUnitTest63
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -19526,302 +21446,332 @@ public class NUnitTest63
 public class NUnitTest64
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -19831,302 +21781,332 @@ public class NUnitTest64
 public class NUnitTest65
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -20136,302 +22116,332 @@ public class NUnitTest65
 public class NUnitTest66
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -20441,302 +22451,332 @@ public class NUnitTest66
 public class NUnitTest67
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -20746,302 +22786,332 @@ public class NUnitTest67
 public class NUnitTest68
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -21051,302 +23121,332 @@ public class NUnitTest68
 public class NUnitTest69
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -21356,302 +23456,332 @@ public class NUnitTest69
 public class NUnitTest70
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -21661,302 +23791,332 @@ public class NUnitTest70
 public class NUnitTest71
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -21966,302 +24126,332 @@ public class NUnitTest71
 public class NUnitTest72
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -22271,302 +24461,332 @@ public class NUnitTest72
 public class NUnitTest73
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -22576,302 +24796,332 @@ public class NUnitTest73
 public class NUnitTest74
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -22881,302 +25131,332 @@ public class NUnitTest74
 public class NUnitTest75
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -23186,302 +25466,332 @@ public class NUnitTest75
 public class NUnitTest76
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -23491,302 +25801,332 @@ public class NUnitTest76
 public class NUnitTest77
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -23796,302 +26136,332 @@ public class NUnitTest77
 public class NUnitTest78
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -24101,302 +26471,332 @@ public class NUnitTest78
 public class NUnitTest79
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -24406,302 +26806,332 @@ public class NUnitTest79
 public class NUnitTest80
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -24711,302 +27141,332 @@ public class NUnitTest80
 public class NUnitTest81
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -25016,302 +27476,332 @@ public class NUnitTest81
 public class NUnitTest82
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -25321,302 +27811,332 @@ public class NUnitTest82
 public class NUnitTest83
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -25626,302 +28146,332 @@ public class NUnitTest83
 public class NUnitTest84
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -25931,302 +28481,332 @@ public class NUnitTest84
 public class NUnitTest85
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -26236,302 +28816,332 @@ public class NUnitTest85
 public class NUnitTest86
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -26541,302 +29151,332 @@ public class NUnitTest86
 public class NUnitTest87
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -26846,302 +29486,332 @@ public class NUnitTest87
 public class NUnitTest88
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -27151,302 +29821,332 @@ public class NUnitTest88
 public class NUnitTest89
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -27456,302 +30156,332 @@ public class NUnitTest89
 public class NUnitTest90
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -27761,302 +30491,332 @@ public class NUnitTest90
 public class NUnitTest91
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -28066,302 +30826,332 @@ public class NUnitTest91
 public class NUnitTest92
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -28371,302 +31161,332 @@ public class NUnitTest92
 public class NUnitTest93
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -28676,302 +31496,332 @@ public class NUnitTest93
 public class NUnitTest94
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -28981,302 +31831,332 @@ public class NUnitTest94
 public class NUnitTest95
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -29286,302 +32166,332 @@ public class NUnitTest95
 public class NUnitTest96
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -29591,302 +32501,332 @@ public class NUnitTest96
 public class NUnitTest97
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -29896,302 +32836,332 @@ public class NUnitTest97
 public class NUnitTest98
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
@@ -30201,302 +33171,332 @@ public class NUnitTest98
 public class NUnitTest99
 {
    
-	  [Test]
+		  [Category("Whatever")]
+	  	  [Test]
 	  public void Test0()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test1()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test2()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test3()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test4()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test5()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test6()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test7()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test8()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test9()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test10()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test11()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test12()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test13()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test14()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test15()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test16()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test17()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test18()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test19()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test20()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test21()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test22()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test23()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test24()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test25()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test26()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test27()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test28()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test29()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test30()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test31()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test32()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test33()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test34()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test35()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test36()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test37()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test38()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test39()
 	  {
 	      Assert.That(18, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test40()
 	  {
 	      Assert.That(19, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test41()
 	  {
 	      Assert.That(20, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test42()
 	  {
 	      Assert.That(0, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test43()
 	  {
 	      Assert.That(1, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test44()
 	  {
 	      Assert.That(2, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test45()
 	  {
 	      Assert.That(3, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test46()
 	  {
 	      Assert.That(4, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test47()
 	  {
 	      Assert.That(5, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test48()
 	  {
 	      Assert.That(6, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test49()
 	  {
 	      Assert.That(7, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test50()
 	  {
 	      Assert.That(8, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test51()
 	  {
 	      Assert.That(9, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test52()
 	  {
 	      Assert.That(10, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test53()
 	  {
 	      Assert.That(11, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test54()
 	  {
 	      Assert.That(12, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test55()
 	  {
 	      Assert.That(13, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test56()
 	  {
 	      Assert.That(14, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test57()
 	  {
 	      Assert.That(15, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Category("Whatever")]
+	  	  [Test]
 	  public void Test58()
 	  {
 	      Assert.That(16, Is.GreaterThan(-1));
 	  }
-		  [Test]
+			  [Test]
 	  public void Test59()
 	  {
 	      Assert.That(17, Is.GreaterThan(-1));

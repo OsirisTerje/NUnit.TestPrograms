@@ -19,6 +19,9 @@ public class NUnitTest<#=j#>
 for (int i=0;i<60;i++)
 { 
     #>
+	<# if (i%2==0) { #>
+	  [Category("Whatever")]
+	  <# } #>
 	  [Test]
 	  public void Test<#=i#>()
 	  {
