@@ -1,7 +1,7 @@
 ﻿// NUnit3 Tests,  see documentation : https://github.com/nunit/docs/wiki/NUnit-Documentation 
 using NUnit.Framework;
 
-namespace $rootnamespace$
+namespace whatever // $rootnamespace$
 {
     [TestFixture]
 public class TestClass

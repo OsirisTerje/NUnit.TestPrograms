@@ -45,6 +45,7 @@
   <NUnit>
     <TestOutput>d:\repos\nunit\testresults2</TestOutput>
     <Verbosity>5</Verbosity>
+    <DiscoveryMethod>Modern</DiscoveryMethod>
   </NUnit>
 </RunSettings>
 

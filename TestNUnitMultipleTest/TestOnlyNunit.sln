@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NunitMix", "NunitMix\NunitM
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6CA2B411-42BE-4E13-BE6C-5477BBD8E4C8}"
 	ProjectSection(SolutionItems) = preProject
-		Simple.runsettings = Simple.runsettings
+		.runsettings = .runsettings
 	EndProjectSection
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "NUnit.Tests1", "NUnit.Tests1\NUnit.Tests1.vbproj", "{6B1D4E4F-82C6-4A3F-95C6-EA1EE2C0C3CB}"
