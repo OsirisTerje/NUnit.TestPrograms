@@ -21,10 +21,7 @@
     <PackageReference Include="xunit.extensibility.core" Version="2.4.1" />
     <PackageReference Include="xunit.extensibility.execution" Version="2.4.1" />
   </ItemGroup>
-  <ItemGroup>
-    <Reference Include="System.Data.DataSetExtensions" />
-    <Reference Include="Microsoft.CSharp" />
-  </ItemGroup>
+
   <ItemGroup>
     <Compile Update="Script1.cs">
       <DependentUpon>Script1.tt</DependentUpon>

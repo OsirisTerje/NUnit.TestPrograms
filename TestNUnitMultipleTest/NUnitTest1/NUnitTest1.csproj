@@ -3,10 +3,6 @@
     <RootNamespace>ClassLibrary2</RootNamespace>
     <AssemblyName>ClassLibrary2</AssemblyName>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <SccProjectName>SAK</SccProjectName>
-    <SccLocalPath>SAK</SccLocalPath>
-    <SccAuxPath>SAK</SccAuxPath>
-    <SccProvider>SAK</SccProvider>
     <AssemblyTitle>ClassLibrary2</AssemblyTitle>
     <Company>Microsoft</Company>
     <Product>ClassLibrary2</Product>
@@ -22,12 +18,9 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.6.1" />
     <PackageReference Include="NUnit" Version="3.12.0" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.17.0-beta.2" />
   </ItemGroup>
-  <ItemGroup>
-    <Reference Include="System.Data.DataSetExtensions" />
-    <Reference Include="Microsoft.CSharp" />
-  </ItemGroup>
-  <ItemGroup>
+   <ItemGroup>
     <Compile Update="Copy of Script1.cs">
       <DependentUpon>Copy of Script1.tt</DependentUpon>
       <AutoGen>True</AutoGen>
