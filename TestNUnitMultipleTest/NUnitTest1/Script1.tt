@@ -9,7 +9,7 @@
 using NUnit.Framework;
 namespace MultiTesting
 {
-<# for (int j=0; j<10; j++)
+<# for (int j=0; j<2000; j++)
 { #>
 [TestFixture]
 public class NUnitTest<#=j#>

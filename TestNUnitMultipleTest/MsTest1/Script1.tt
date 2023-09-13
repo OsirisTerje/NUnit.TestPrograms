@@ -9,7 +9,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace MultiTesting01
 {
-<# for (int j=0; j<500; j++)
+<# for (int j=0; j<2000; j++)
 { #>
 [TestClass]
 public class MSTest<#=j#>
