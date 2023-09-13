@@ -10,7 +10,7 @@ namespace MultiTesting31
 {
 <# for (int j=0; j<300; j++)
 { #>
-
+[Parallelizable(ParallelScope.Fixtures)]
 [TestFixture]
 public class NUnitTest<#=j#>
 {
